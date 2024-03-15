@@ -1,0 +1,78 @@
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Customers.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Farmers.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PrintSugercaneBill1.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SalesReport.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.main.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PrintSalesBilll.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.new_bill.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Products.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SugercaneReport.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UpdateSalesBill.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UpdateSCBill.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View_Farmers_Bill.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View_Sales_Bill.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\LaxmiJaggery.csproj.GenerateResource.Cache
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\FarmersBillPrint.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\SalesBillingPrint.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\SalesReportPrint.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\SugercaneReportPrint1.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\FarmersBillPrint.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\SalesBillingPrint.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\SugercaneReportPrint1.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProductsReport.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\ProductsCrystalReport.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\ProductsCrystalReport.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\CustomersReport.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\CustomersReport.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CustomersReportcs.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FarmersReport.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\FarmersCrystalReport.rpt
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\bin\Debug\FarmersCrystalReport.cs
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SugercaneBilling.resources
+C:\Users\91997\Desktop\my project\New folder (2)\WindowsFormsApplication2\obj\Debug\LaxmiJaggery.csprojResolveAssemblyReference.cache
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\CustomersReport.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\FarmersBillPrint.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\FarmersCrystalReport.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\ProductsCrystalReport.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\SalesBillingPrint.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\SalesReportPrint.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\SugercaneReportPrint1.rpt
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\CustomersReport.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\FarmersBillPrint.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\FarmersCrystalReport.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\ProductsCrystalReport.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\SalesBillingPrint.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\SugercaneReportPrint1.cs
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\LaxmiJaggery.csprojResolveAssemblyReference.cache
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Customers.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.CustomersReportcs.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Farmers.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FarmersReport.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PrintSugercaneBill1.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ProductsReport.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SalesReport.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.main.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.PrintSalesBilll.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.new_bill.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Products.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SugercaneBilling.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.SugercaneReport.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UpdateSalesBill.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.UpdateSCBill.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View_Farmers_Bill.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View_Sales_Bill.resources
+C:\Users\91997\Desktop\project\my project\Laxmi Jaggery\WindowsFormsApplication2\obj\Debug\LaxmiJaggery.csproj.GenerateResource.Cache
